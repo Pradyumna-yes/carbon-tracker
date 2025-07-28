@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Django](https://img.shields.io/badge/django-4.2-brightgreen)
-![Docker](https://img.shields.io/badge/docker-compose-supported-important)
 
 ## 📦 Installation
 
@@ -39,15 +38,18 @@ http://localhost:8000
 ### 1. Energy Input Form
 Users enter electricity consumption in kWh to calculate CO₂ emissions.
 
-![Energy Input Form](<img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/964340c6-a205-456c-9fca-6d17ad48b00d" />
-)  
-*Figure 1: Form for entering energy consumption values*
 
+*Figure 1: Form for entering energy consumption values*
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/9820c83e-e738-4b20-882b-5bd8bd105441" />
+
+
+  
 ### 2. Calculation Results
 Instant CO₂ emissions calculation displayed with detailed breakdown.
 
-![Results Page](<img width="940" height="502" alt="image" src="https://github.com/user-attachments/assets/761ba18d-1727-4bf0-80b3-1685a330e292" />)  
+![Results Page]
 *Figure 2: Emissions calculation results with source data*
+<img width="1912" height="976" alt="image" src="https://github.com/user-attachments/assets/caa4b6b9-6f22-4564-b23b-b37dfa9eef20" />
 
 API Endpoint
 POST /
