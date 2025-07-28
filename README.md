@@ -81,6 +81,12 @@ Bootstrap 5
 HTML5
 CSS3
 
+📜 License
+MIT License
+Copyright (c) 2023 [Your Name]
 
+📬 Contact
+For support, please open an issue on GitHub or contact:
+hello@pradyumna.ie
 
 
